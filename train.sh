@@ -1,0 +1,1 @@
+python train.py --config configs/cps_1_lambda00018.yaml

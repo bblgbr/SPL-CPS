@@ -1,0 +1,18 @@
+train_data:
+  data_path: "/mnt/hdd3/zzf/flicker_2W_patch"
+  use_checkpoint_path: ""
+  batch_size: 32
+  test_batch_size: 4
+  epochs: 1000
+  num_workers: 4
+  cuda: True
+  experiment_path: "./experiment/cps_lambda000625_v4"
+
+train_params:
+  patch_size: 256
+  training_modality: "patch"
+  learning_rate: 0.0001
+  aux_learning_rate: 0.001
+  lmbda: 0.00625
+  clip_max_norm: 1.0
+  N: 192
