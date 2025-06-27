@@ -28,6 +28,12 @@
 
 1. Prepare the training dataset and change the path in `./configs/xxx.yaml`.
 
+```
+   save_folder
+   ├── train # train dataset
+   └── test # test dataset
+```
+
 2. Run the following command.
 
 ```bash
@@ -61,6 +67,9 @@
    -d output/cps_lambda00018_v4_patch256_Kodak \
    --config configs/cps_1_lambda00018.yaml --save-image --per-image --patch --cuda
    ```
+
+### <a name="acknowledgement">:heart: Acknowledgement
+This work is based on [Compressai](https://github.com/InterDigitalInc/CompressAI), thanks to the invaluable contributions.
 
 ## <a name="cite"></a>:clipboard: Citation
 
