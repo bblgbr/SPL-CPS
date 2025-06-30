@@ -49,9 +49,9 @@
     | 0.0018  | [cps_6](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)             |
     | 0.0035  | [cps_5](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)             |
     | 0.00625  | [cps_4](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)              |
-    | 0.0013  | [cps_3](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)              |
-    | 0.0025  | [cps_2](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)              |
-    | 0.00483  | [cps_1](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)              |
+    | 0.013  | [cps_3](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)              |
+    | 0.025  | [cps_2](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)              |
+    | 0.0483  | [cps_1](https://drive.google.com/drive/folders/1y3POeiZtrqTMqX5kCusOegQsOoKtLmps?usp=sharing)              |
 
 2. Download [test datasets](https://drive.google.com/drive/folders/1NkBLxPs7iXON7rEXZznz_bgkQhMWW0Kh?usp=drive_link).
 
